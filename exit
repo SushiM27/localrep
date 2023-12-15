@@ -1,0 +1,81 @@
+[33mcommit 9fc17c2cc50cf889818667735abf0e61c853e2f5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature2[m[33m)[m
+Author: SushiM27 <sushila@amwebtech.com>
+Date:   Fri Dec 15 15:29:13 2023 +0530
+
+    Merge commit
+    
+    Signed-off-by: SushiM27 <sushila@amwebtech.com>
+
+[33mcommit 7148a9fc74cf8c83f2ba0316febdc66f9436988c[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: SushiM27 <sushila@amwebtech.com>
+Date:   Thu Dec 14 14:01:46 2023 +0530
+
+    Update
+
+[33mcommit 154c9eb7e10c07b601bd619aeaf744765c90b0cf[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: SushiM27 <sushila@amwebtech.com>
+Date:   Fri Dec 15 14:53:36 2023 +0530
+
+    Add Css
+
+[33mcommit d535eb856e913a40c82a07d64b456d3a4fdac3ff[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Merge: 37606d7 6eb93b3
+Author: SushiM27 <sushila@amwebtech.com>
+Date:   Thu Dec 14 14:01:46 2023 +0530
+
+    Add both feature
+
+[33mcommit 37606d7dc42c968a23f0dffcc9a88e841ddf42a7[m
+Author: SushiM27 <sushila@amwebtech.com>
+Date:   Thu Dec 14 13:54:02 2023 +0530
+
+    Add New Feature
+
+[33mcommit 6eb93b3d7f699f111c3d25beec85e70cd9449afa[m
+Author: SushiM27 <sushila@amwebtech.com>
+Date:   Thu Dec 14 13:51:51 2023 +0530
+
+    Add New Button
+
+[33mcommit 934040c7a9894a9edcd28aa20086193321d6340c[m
+Merge: 1cec680 479bc85
+Author: SushiM27 <sushila@amwebtech.com>
+Date:   Thu Dec 14 12:56:54 2023 +0530
+
+    fixed
+
+[33mcommit 1cec680f510c3b4eaea046f984245a052217f6dd[m
+Author: SushiM27 <sushila@amwebtech.com>
+Date:   Thu Dec 14 12:33:30 2023 +0530
+
+    fixed
+
+[33mcommit 479bc85f07f350c43a1619b0c5bd274febc2005c[m
+Author: SushiM27 <sushila@amwebtech.com>
+Date:   Thu Dec 14 12:31:48 2023 +0530
+
+    fixed
+
+[33mcommit 3679c402f850b06a3707dde24a0b4e6191458cad[m
+Author: SushiM27 <sushila@amwebtech.com>
+Date:   Thu Dec 14 12:26:29 2023 +0530
+
+    Add New Feature
+
+[33mcommit a2100a29a24d1f0699513bbbe81ca182e40fc312[m
+Author: SushiM27 <sushila@amwebtech.com>
+Date:   Thu Dec 14 12:08:01 2023 +0530
+
+    Fixed
+
+[33mcommit bd04b3c00fbbf100013d7173b5ade21846b8afc4[m
+Author: SushiM27 <sushila@amwebtech.com>
+Date:   Thu Dec 14 12:02:39 2023 +0530
+
+    Add Readme
+
+[33mcommit 7c2287568c3e343e10e43c691b7d90479a388691[m
+Author: SushiM27 <sushila@amwebtech.com>
+Date:   Thu Dec 14 11:47:44 2023 +0530
+
+    Add Initial Files
